@@ -23,7 +23,6 @@ function ChatPage() {
     
   ])
 
-
   
   const addUserTextBox = (text) => {
 
