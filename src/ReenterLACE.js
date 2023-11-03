@@ -14,7 +14,7 @@ const ReenterLACE = () => {
 
         axios({
             method: 'post',
-            url: 'http://localhost:5000/lace/login',
+            url: 'http://34.123.247.181:8082/lace/login',
             headers: {
                 "Content-Type": 'application/json',
                 "Access-Control-Allow-Origin": "*"
@@ -154,6 +154,7 @@ const ReenterLACE = () => {
             height: "100vh",
           }}
         >
+        <div style={{color:'white'}}>some text</div>
           <ReactSVG src="./assets/ripple.svg"/>
 
         </div>

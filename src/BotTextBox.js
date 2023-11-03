@@ -7,7 +7,7 @@ const BotTextBox = (props) => {
 
     return (
         <div className="shadow" style={{display: 'flex', width: '70%', justifyContent:'flex-start', border: '0px solid white', color:"white", backgroundColor: '#282c3c', padding: '1vw', borderRadius:'20px', margin: '1vw'}}>
-            <p style={{marginRight:'7vw'}}>{props.text}</p>
+            <p style={{marginRight:'7vw', padding:'5px'}}>{props.text}</p>
         </div>
     );
 

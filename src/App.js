@@ -41,15 +41,20 @@ function ChatPage() {
 
     // call backend for added text box as well
     axios({
-      method:'get',
-      url: 'https://catfact.ninja/fact',
+      method:'post',
+      url: 'http://34.123.247.181:8081/lace/query',
       headers: {
-        "Content-Type": 'application/json'
+        "Content-Type": 'application/json',
+        "Access-Control-Allow-Origin": "*"
+      },
+      data:{
+        "natlang_query": text
       }
     }).then(res=>{
       
+      console.log(res)
       setCurrID(currID += 2)
-      setTextBoxes([...textBoxes, [<UserTextBox key={currID} text={text}/>, <BotTextBox key={currID + 1} text={res.data.fact}/>]])
+      setTextBoxes([...textBoxes, [<UserTextBox key={currID} text={text}/>, <BotTextBox key={currID + 1} text={res.data}/>]])
 
     }).catch(err=>console.log(err)).finally(()=>{
       console.log(textBoxes)
@@ -64,7 +69,7 @@ function ChatPage() {
     ev.preventDefault();
     axios({
       method:'post',
-      url:'http://localhost:5000/lace/logout',
+      url:'http://34.123.247.181:8082/lace/logout',
       data: {
         'uid': location.state.uid
       },

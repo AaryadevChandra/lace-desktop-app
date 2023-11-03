@@ -19,7 +19,8 @@ const EnterLACE = () => {
 
         axios({
             method: 'post',
-            url: 'http://localhost:5000/lace/signup',
+            
+            url: 'http://34.123.247.181:8082/lace/signup',
             headers: {
                 "Content-Type": 'application/json',
                 "Access-Control-Allow-Origin": "*"
