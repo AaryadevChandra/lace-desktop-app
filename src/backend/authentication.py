@@ -1,9 +1,19 @@
-from flask import Flask, request
+from flask import Flask, request, Response
 from flask_cors import CORS
 from uuid import uuid4
 import time
 from pymongo import MongoClient
-import random
+import json
+from dotenv import load_dotenv
+import os
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Access the environment variables
+mongo_username = os.getenv("MONGO_USERNAME")
+mongo_password = os.getenv("MONGO_PASSWORD")
+
 
 time.time()
 
@@ -22,9 +32,7 @@ def password_generator(account_uuid, account_creation_timestamp, account_first_n
         try:
             generated_password.append(account_first_name[int(account_creation_timestamp[i])])
         except:
-            temp  = chr(random.randint(65, 90))
-            generated_password.append(temp)
-
+            generated_password.append(account_creation_timestamp[-1])
 
     # convert list to string
     final_password = ''
@@ -38,7 +46,7 @@ def password_generator(account_uuid, account_creation_timestamp, account_first_n
 
 def get_mongo_handle():
     try:
-        mongo_client = MongoClient('mongodb+srv://Aaryadev:aurora1127@cluster0.jvar5.mongodb.net/lace?retryWrites=true&w=majority')
+        mongo_client = MongoClient(f'mongodb+srv://{mongo_username}:{mongo_password}@cluster0.jvar5.mongodb.net/lace?retryWrites=true&w=majority')
         db = mongo_client.get_database('lace').get_collection('users')
         return db
     except:
@@ -48,26 +56,26 @@ def get_current_unix_millis():
     return int(time.time() * 1000)
 
 
-def create_lace_user_account(self, first_name, last_name, title_in_organisation):
+def create_lace_user_account(first_name, last_name, title_in_organisation):
 
     try:
-        self.account_uuid = str(uuid4())
-        self._account_first_name = first_name
-        self._account_last_name = last_name
-        self.title_in_organisation = title_in_organisation
-        self.account_creation_timestamp = get_current_unix_millis()        
+        account_uuid = str(uuid4())
+        _account_first_name = first_name
+        _account_last_name = last_name
+        title_in_organisation = title_in_organisation
+        account_creation_timestamp = get_current_unix_millis()        
 
         # database operations
 
-        origin_password = password_generator(self.account_uuid, self.account_creation_timestamp, self._account_first_name)
+        origin_password = password_generator(account_uuid, account_creation_timestamp, _account_first_name)
 
         db = get_mongo_handle()
         res = db.insert_one({
-            "account_uuid": self.account_uuid,
-            "account_first_name": self._account_first_name,
-            "account_last_name": self._account_last_name,
-            "title_in_organisation": self.title_in_organisation,
-            "account_creation_timestamp": self.account_creation_timestamp,
+            "account_uuid": account_uuid,
+            "account_first_name": _account_first_name,
+            "account_last_name": _account_last_name,
+            "title_in_organisation": title_in_organisation,
+            "account_creation_timestamp": account_creation_timestamp,
             "account_password": str(origin_password)
         })
 
@@ -76,37 +84,18 @@ def create_lace_user_account(self, first_name, last_name, title_in_organisation)
 
             return -1
         else:
-            return 1, {
-                'account_uuid': self.account_uuid,
+            response = json.dumps({
+                'account_uuid': account_uuid,
                 'account_password':  str(origin_password) #TODO
-            }
+            })
+            return response
     except Exception as e:
         print(e)
 
         return -1
         
 
-
-
-global current_session_uids
-
-
-def get_session_uid(account_uuid, account_creation_timestamp, account_first_name, account_password):
-    try:
-        db = get_mongo_handle()
-        res = db.find_one({
-            "account_uuid": account_uuid
-        })
-        if res != None and str(account_password) == str(password_generator(account_uuid, account_creation_timestamp, account_first_name)):
-            session_uuid = uuid4()
-            current_session_uids.append(session_uuid)
-            return session_uuid
-        else:
-            return -1
-    except:
-        return -1
-
-
+current_session_uids = []
 
 # use deets to login to account
 # on logging in you get session uid, that you can use to access the apis
@@ -116,13 +105,54 @@ def signup():
     user_data_received = request.get_json()
     print(user_data_received)
 
-    lace_user_account = create_lace_user_account(user_data_received['account_first_name'], user_data_received['account_last_name'], user_data_received['title_in_organisation'])
+    lace_user_account = create_lace_user_account(user_data_received['fname'], user_data_received['lname'], user_data_received['title'])
 
     print(lace_user_account)
     if str(lace_user_account) == str(-1):
         return str(-1)
     else:
         return str(lace_user_account)
+
+
+
+def login_user_account(account_uuid, account_password):
+    try:
+        db = get_mongo_handle()
+        res = db.find_one({
+            "account_uuid": account_uuid
+        })
+
+        if res != None and (str(account_password) == str(password_generator(account_uuid, res['account_creation_timestamp'], res['account_first_name']))) and (account_uuid not in current_session_uids):
+            current_session_uids.append(account_uuid)
+
+            print('*****CURRENT SESSION UUIDS******')
+            print(current_session_uids)
+            return 1
+        else:
+            return -1
+    except:
+        return -1
+
+@app.route('/lace/login', methods=["POST"])
+def login():
+    user_data_received = request.get_json()
+    res = login_user_account(user_data_received['uid'], user_data_received['password'])
+
+    return str(res)
+
+
+@app.route('/lace/logout', methods=["POST"])
+def logout():
+    logout_data_received = request.get_json()
+    try:
+        print(f"User UID {logout_data_received['uid']} removed")
+        current_session_uids.remove(logout_data_received['uid'])
+        print('*****CURRENT SESSION UUIDS******')
+        print(current_session_uids)
+        return str(1)
+    except:
+        return str(-1)
+    
 
 @app.route('/lace/delete', methods=["GET", "POST" ])
 def delete_account():
@@ -135,15 +165,15 @@ def delete_account():
             "account_uuid": str(json_data_received['account_uuid'])
         })
 
-        if res  == None:
-            return -1
+        if res == None:
+            return str(-1)
         
         else:
-            return 1
+            return str(1)
 
     except Exception as e:
         print(e)
-        return -1
+        return str(-1)
 
 
 
