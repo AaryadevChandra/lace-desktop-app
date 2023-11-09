@@ -1,0 +1,700 @@
+Matti Brolechan has a GPA of 1.82.
+Matti Brolechan holds Student ID 1 and has a GPA of 1.82.
+Matti Brolechan, with Student ID 1, achieved a GPA of 1.82.
+With a GPA of 1.82, Matti Brolechan is the student with ID 1.
+The student Matti Brolechan has a GPA of 1.82 and is identified by ID 1.
+Matti Brolechan's GPA is 1.82, and their Student ID is 1.
+With Student ID 1, Matti Brolechan has earned a GPA of 1.82.
+Sonya Ivanichev has a GPA of 2.01.
+Sonya Ivanichev holds Student ID 2 and has a GPA of 2.01.
+Sonya Ivanichev, with Student ID 2, achieved a GPA of 2.01.
+With a GPA of 2.01, Sonya Ivanichev is the student with ID 2.
+The student Sonya Ivanichev has a GPA of 2.01 and is identified by ID 2.
+Sonya Ivanichev's GPA is 2.01, and their Student ID is 2.
+With Student ID 2, Sonya Ivanichev has earned a GPA of 2.01.
+Dominik Olenichev has a GPA of 2.83.
+Dominik Olenichev holds Student ID 3 and has a GPA of 2.83.
+Dominik Olenichev, with Student ID 3, achieved a GPA of 2.83.
+With a GPA of 2.83, Dominik Olenichev is the student with ID 3.
+The student Dominik Olenichev has a GPA of 2.83 and is identified by ID 3.
+Dominik Olenichev's GPA is 2.83, and their Student ID is 3.
+With Student ID 3, Dominik Olenichev has earned a GPA of 2.83.
+Aliza Flipsen has a GPA of 2.21.
+Aliza Flipsen holds Student ID 4 and has a GPA of 2.21.
+Aliza Flipsen, with Student ID 4, achieved a GPA of 2.21.
+With a GPA of 2.21, Aliza Flipsen is the student with ID 4.
+The student Aliza Flipsen has a GPA of 2.21 and is identified by ID 4.
+Aliza Flipsen's GPA is 2.21, and their Student ID is 4.
+With Student ID 4, Aliza Flipsen has earned a GPA of 2.21.
+Bryn Gater has a GPA of 1.55.
+Bryn Gater holds Student ID 5 and has a GPA of 1.55.
+Bryn Gater, with Student ID 5, achieved a GPA of 1.55.
+With a GPA of 1.55, Bryn Gater is the student with ID 5.
+The student Bryn Gater has a GPA of 1.55 and is identified by ID 5.
+Bryn Gater's GPA is 1.55, and their Student ID is 5.
+With Student ID 5, Bryn Gater has earned a GPA of 1.55.
+Carmine Shuard has a GPA of 4.
+Carmine Shuard holds Student ID 6 and has a GPA of 4.
+Carmine Shuard, with Student ID 6, achieved a GPA of 4.
+With a GPA of 4, Carmine Shuard is the student with ID 6.
+The student Carmine Shuard has a GPA of 4 and is identified by ID 6.
+Carmine Shuard's GPA is 4, and their Student ID is 6.
+With Student ID 6, Carmine Shuard has earned a GPA of 4.
+Christyna Tuting has a GPA of 2.78.
+Christyna Tuting holds Student ID 7 and has a GPA of 2.78.
+Christyna Tuting, with Student ID 7, achieved a GPA of 2.78.
+With a GPA of 2.78, Christyna Tuting is the student with ID 7.
+The student Christyna Tuting has a GPA of 2.78 and is identified by ID 7.
+Christyna Tuting's GPA is 2.78, and their Student ID is 7.
+With Student ID 7, Christyna Tuting has earned a GPA of 2.78.
+Marie Dodshon has a GPA of 3.27.
+Marie Dodshon holds Student ID 8 and has a GPA of 3.27.
+Marie Dodshon, with Student ID 8, achieved a GPA of 3.27.
+With a GPA of 3.27, Marie Dodshon is the student with ID 8.
+The student Marie Dodshon has a GPA of 3.27 and is identified by ID 8.
+Marie Dodshon's GPA is 3.27, and their Student ID is 8.
+With Student ID 8, Marie Dodshon has earned a GPA of 3.27.
+Raychel Hairon has a GPA of 3.71.
+Raychel Hairon holds Student ID 9 and has a GPA of 3.71.
+Raychel Hairon, with Student ID 9, achieved a GPA of 3.71.
+With a GPA of 3.71, Raychel Hairon is the student with ID 9.
+The student Raychel Hairon has a GPA of 3.71 and is identified by ID 9.
+Raychel Hairon's GPA is 3.71, and their Student ID is 9.
+With Student ID 9, Raychel Hairon has earned a GPA of 3.71.
+Ced Van der Son has a GPA of 2.06.
+Ced Van der Son holds Student ID 10 and has a GPA of 2.06.
+Ced Van der Son, with Student ID 10, achieved a GPA of 2.06.
+With a GPA of 2.06, Ced Van der Son is the student with ID 10.
+The student Ced Van der Son has a GPA of 2.06 and is identified by ID 10.
+Ced Van der Son's GPA is 2.06, and their Student ID is 10.
+With Student ID 10, Ced Van der Son has earned a GPA of 2.06.
+Veronika Hagergham has a GPA of 2.82.
+Veronika Hagergham holds Student ID 11 and has a GPA of 2.82.
+Veronika Hagergham, with Student ID 11, achieved a GPA of 2.82.
+With a GPA of 2.82, Veronika Hagergham is the student with ID 11.
+The student Veronika Hagergham has a GPA of 2.82 and is identified by ID 11.
+Veronika Hagergham's GPA is 2.82, and their Student ID is 11.
+With Student ID 11, Veronika Hagergham has earned a GPA of 2.82.
+Joy Dymond has a GPA of 3.64.
+Joy Dymond holds Student ID 12 and has a GPA of 3.64.
+Joy Dymond, with Student ID 12, achieved a GPA of 3.64.
+With a GPA of 3.64, Joy Dymond is the student with ID 12.
+The student Joy Dymond has a GPA of 3.64 and is identified by ID 12.
+Joy Dymond's GPA is 3.64, and their Student ID is 12.
+With Student ID 12, Joy Dymond has earned a GPA of 3.64.
+Margarette Rewan has a GPA of 3.24.
+Margarette Rewan holds Student ID 13 and has a GPA of 3.24.
+Margarette Rewan, with Student ID 13, achieved a GPA of 3.24.
+With a GPA of 3.24, Margarette Rewan is the student with ID 13.
+The student Margarette Rewan has a GPA of 3.24 and is identified by ID 13.
+Margarette Rewan's GPA is 3.24, and their Student ID is 13.
+With Student ID 13, Margarette Rewan has earned a GPA of 3.24.
+Freda Lobell has a GPA of 1.99.
+Freda Lobell holds Student ID 14 and has a GPA of 1.99.
+Freda Lobell, with Student ID 14, achieved a GPA of 1.99.
+With a GPA of 1.99, Freda Lobell is the student with ID 14.
+The student Freda Lobell has a GPA of 1.99 and is identified by ID 14.
+Freda Lobell's GPA is 1.99, and their Student ID is 14.
+With Student ID 14, Freda Lobell has earned a GPA of 1.99.
+Regine Paszak has a GPA of 2.43.
+Regine Paszak holds Student ID 15 and has a GPA of 2.43.
+Regine Paszak, with Student ID 15, achieved a GPA of 2.43.
+With a GPA of 2.43, Regine Paszak is the student with ID 15.
+The student Regine Paszak has a GPA of 2.43 and is identified by ID 15.
+Regine Paszak's GPA is 2.43, and their Student ID is 15.
+With Student ID 15, Regine Paszak has earned a GPA of 2.43.
+Sacha Armstrong has a GPA of 2.04.
+Sacha Armstrong holds Student ID 16 and has a GPA of 2.04.
+Sacha Armstrong, with Student ID 16, achieved a GPA of 2.04.
+With a GPA of 2.04, Sacha Armstrong is the student with ID 16.
+The student Sacha Armstrong has a GPA of 2.04 and is identified by ID 16.
+Sacha Armstrong's GPA is 2.04, and their Student ID is 16.
+With Student ID 16, Sacha Armstrong has earned a GPA of 2.04.
+Merrile Dancey has a GPA of 3.65.
+Merrile Dancey holds Student ID 17 and has a GPA of 3.65.
+Merrile Dancey, with Student ID 17, achieved a GPA of 3.65.
+With a GPA of 3.65, Merrile Dancey is the student with ID 17.
+The student Merrile Dancey has a GPA of 3.65 and is identified by ID 17.
+Merrile Dancey's GPA is 3.65, and their Student ID is 17.
+With Student ID 17, Merrile Dancey has earned a GPA of 3.65.
+Laurena Durtnall has a GPA of 3.32.
+Laurena Durtnall holds Student ID 18 and has a GPA of 3.32.
+Laurena Durtnall, with Student ID 18, achieved a GPA of 3.32.
+With a GPA of 3.32, Laurena Durtnall is the student with ID 18.
+The student Laurena Durtnall has a GPA of 3.32 and is identified by ID 18.
+Laurena Durtnall's GPA is 3.32, and their Student ID is 18.
+With Student ID 18, Laurena Durtnall has earned a GPA of 3.32.
+Kendell Debell has a GPA of 3.05.
+Kendell Debell holds Student ID 19 and has a GPA of 3.05.
+Kendell Debell, with Student ID 19, achieved a GPA of 3.05.
+With a GPA of 3.05, Kendell Debell is the student with ID 19.
+The student Kendell Debell has a GPA of 3.05 and is identified by ID 19.
+Kendell Debell's GPA is 3.05, and their Student ID is 19.
+With Student ID 19, Kendell Debell has earned a GPA of 3.05.
+Brooke Gatsby has a GPA of 3.51.
+Brooke Gatsby holds Student ID 20 and has a GPA of 3.51.
+Brooke Gatsby, with Student ID 20, achieved a GPA of 3.51.
+With a GPA of 3.51, Brooke Gatsby is the student with ID 20.
+The student Brooke Gatsby has a GPA of 3.51 and is identified by ID 20.
+Brooke Gatsby's GPA is 3.51, and their Student ID is 20.
+With Student ID 20, Brooke Gatsby has earned a GPA of 3.51.
+Glenna Rihosek has a GPA of 3.78.
+Glenna Rihosek holds Student ID 21 and has a GPA of 3.78.
+Glenna Rihosek, with Student ID 21, achieved a GPA of 3.78.
+With a GPA of 3.78, Glenna Rihosek is the student with ID 21.
+The student Glenna Rihosek has a GPA of 3.78 and is identified by ID 21.
+Glenna Rihosek's GPA is 3.78, and their Student ID is 21.
+With Student ID 21, Glenna Rihosek has earned a GPA of 3.78.
+Waiter McGilleghole has a GPA of 4.
+Waiter McGilleghole holds Student ID 22 and has a GPA of 4.
+Waiter McGilleghole, with Student ID 22, achieved a GPA of 4.
+With a GPA of 4, Waiter McGilleghole is the student with ID 22.
+The student Waiter McGilleghole has a GPA of 4 and is identified by ID 22.
+Waiter McGilleghole's GPA is 4, and their Student ID is 22.
+With Student ID 22, Waiter McGilleghole has earned a GPA of 4.
+Mike Coal has a GPA of 1.37.
+Mike Coal holds Student ID 23 and has a GPA of 1.37.
+Mike Coal, with Student ID 23, achieved a GPA of 1.37.
+With a GPA of 1.37, Mike Coal is the student with ID 23.
+The student Mike Coal has a GPA of 1.37 and is identified by ID 23.
+Mike Coal's GPA is 1.37, and their Student ID is 23.
+With Student ID 23, Mike Coal has earned a GPA of 1.37.
+Damian Mariolle has a GPA of 3.
+Damian Mariolle holds Student ID 24 and has a GPA of 3.
+Damian Mariolle, with Student ID 24, achieved a GPA of 3.
+With a GPA of 3, Damian Mariolle is the student with ID 24.
+The student Damian Mariolle has a GPA of 3 and is identified by ID 24.
+Damian Mariolle's GPA is 3, and their Student ID is 24.
+With Student ID 24, Damian Mariolle has earned a GPA of 3.
+Pip Lebrun has a GPA of 3.06.
+Pip Lebrun holds Student ID 25 and has a GPA of 3.06.
+Pip Lebrun, with Student ID 25, achieved a GPA of 3.06.
+With a GPA of 3.06, Pip Lebrun is the student with ID 25.
+The student Pip Lebrun has a GPA of 3.06 and is identified by ID 25.
+Pip Lebrun's GPA is 3.06, and their Student ID is 25.
+With Student ID 25, Pip Lebrun has earned a GPA of 3.06.
+Alwin Murdy has a GPA of 3.64.
+Alwin Murdy holds Student ID 26 and has a GPA of 3.64.
+Alwin Murdy, with Student ID 26, achieved a GPA of 3.64.
+With a GPA of 3.64, Alwin Murdy is the student with ID 26.
+The student Alwin Murdy has a GPA of 3.64 and is identified by ID 26.
+Alwin Murdy's GPA is 3.64, and their Student ID is 26.
+With Student ID 26, Alwin Murdy has earned a GPA of 3.64.
+Deck Schaffler has a GPA of 4.
+Deck Schaffler holds Student ID 27 and has a GPA of 4.
+Deck Schaffler, with Student ID 27, achieved a GPA of 4.
+With a GPA of 4, Deck Schaffler is the student with ID 27.
+The student Deck Schaffler has a GPA of 4 and is identified by ID 27.
+Deck Schaffler's GPA is 4, and their Student ID is 27.
+With Student ID 27, Deck Schaffler has earned a GPA of 4.
+Carmina Sekulla has a GPA of 3.64.
+Carmina Sekulla holds Student ID 28 and has a GPA of 3.64.
+Carmina Sekulla, with Student ID 28, achieved a GPA of 3.64.
+With a GPA of 3.64, Carmina Sekulla is the student with ID 28.
+The student Carmina Sekulla has a GPA of 3.64 and is identified by ID 28.
+Carmina Sekulla's GPA is 3.64, and their Student ID is 28.
+With Student ID 28, Carmina Sekulla has earned a GPA of 3.64.
+Rafa Haugen has a GPA of 3.44.
+Rafa Haugen holds Student ID 29 and has a GPA of 3.44.
+Rafa Haugen, with Student ID 29, achieved a GPA of 3.44.
+With a GPA of 3.44, Rafa Haugen is the student with ID 29.
+The student Rafa Haugen has a GPA of 3.44 and is identified by ID 29.
+Rafa Haugen's GPA is 3.44, and their Student ID is 29.
+With Student ID 29, Rafa Haugen has earned a GPA of 3.44.
+Land Gildersleeve has a GPA of 2.79.
+Land Gildersleeve holds Student ID 30 and has a GPA of 2.79.
+Land Gildersleeve, with Student ID 30, achieved a GPA of 2.79.
+With a GPA of 2.79, Land Gildersleeve is the student with ID 30.
+The student Land Gildersleeve has a GPA of 2.79 and is identified by ID 30.
+Land Gildersleeve's GPA is 2.79, and their Student ID is 30.
+With Student ID 30, Land Gildersleeve has earned a GPA of 2.79.
+Lurleen Robrose has a GPA of 0.89.
+Lurleen Robrose holds Student ID 31 and has a GPA of 0.89.
+Lurleen Robrose, with Student ID 31, achieved a GPA of 0.89.
+With a GPA of 0.89, Lurleen Robrose is the student with ID 31.
+The student Lurleen Robrose has a GPA of 0.89 and is identified by ID 31.
+Lurleen Robrose's GPA is 0.89, and their Student ID is 31.
+With Student ID 31, Lurleen Robrose has earned a GPA of 0.89.
+Simonette Boutcher has a GPA of 4.
+Simonette Boutcher holds Student ID 32 and has a GPA of 4.
+Simonette Boutcher, with Student ID 32, achieved a GPA of 4.
+With a GPA of 4, Simonette Boutcher is the student with ID 32.
+The student Simonette Boutcher has a GPA of 4 and is identified by ID 32.
+Simonette Boutcher's GPA is 4, and their Student ID is 32.
+With Student ID 32, Simonette Boutcher has earned a GPA of 4.
+Dehlia Juares has a GPA of 3.86.
+Dehlia Juares holds Student ID 33 and has a GPA of 3.86.
+Dehlia Juares, with Student ID 33, achieved a GPA of 3.86.
+With a GPA of 3.86, Dehlia Juares is the student with ID 33.
+The student Dehlia Juares has a GPA of 3.86 and is identified by ID 33.
+Dehlia Juares's GPA is 3.86, and their Student ID is 33.
+With Student ID 33, Dehlia Juares has earned a GPA of 3.86.
+Mommy Vigars has a GPA of 1.37.
+Mommy Vigars holds Student ID 34 and has a GPA of 1.37.
+Mommy Vigars, with Student ID 34, achieved a GPA of 1.37.
+With a GPA of 1.37, Mommy Vigars is the student with ID 34.
+The student Mommy Vigars has a GPA of 1.37 and is identified by ID 34.
+Mommy Vigars's GPA is 1.37, and their Student ID is 34.
+With Student ID 34, Mommy Vigars has earned a GPA of 1.37.
+Petronilla Bartomeu has a GPA of 1.65.
+Petronilla Bartomeu holds Student ID 35 and has a GPA of 1.65.
+Petronilla Bartomeu, with Student ID 35, achieved a GPA of 1.65.
+With a GPA of 1.65, Petronilla Bartomeu is the student with ID 35.
+The student Petronilla Bartomeu has a GPA of 1.65 and is identified by ID 35.
+Petronilla Bartomeu's GPA is 1.65, and their Student ID is 35.
+With Student ID 35, Petronilla Bartomeu has earned a GPA of 1.65.
+Roi Kempston has a GPA of 1.87.
+Roi Kempston holds Student ID 36 and has a GPA of 1.87.
+Roi Kempston, with Student ID 36, achieved a GPA of 1.87.
+With a GPA of 1.87, Roi Kempston is the student with ID 36.
+The student Roi Kempston has a GPA of 1.87 and is identified by ID 36.
+Roi Kempston's GPA is 1.87, and their Student ID is 36.
+With Student ID 36, Roi Kempston has earned a GPA of 1.87.
+Jamie Learman has a GPA of 0.94.
+Jamie Learman holds Student ID 37 and has a GPA of 0.94.
+Jamie Learman, with Student ID 37, achieved a GPA of 0.94.
+With a GPA of 0.94, Jamie Learman is the student with ID 37.
+The student Jamie Learman has a GPA of 0.94 and is identified by ID 37.
+Jamie Learman's GPA is 0.94, and their Student ID is 37.
+With Student ID 37, Jamie Learman has earned a GPA of 0.94.
+Orlando Wharin has a GPA of 3.08.
+Orlando Wharin holds Student ID 38 and has a GPA of 3.08.
+Orlando Wharin, with Student ID 38, achieved a GPA of 3.08.
+With a GPA of 3.08, Orlando Wharin is the student with ID 38.
+The student Orlando Wharin has a GPA of 3.08 and is identified by ID 38.
+Orlando Wharin's GPA is 3.08, and their Student ID is 38.
+With Student ID 38, Orlando Wharin has earned a GPA of 3.08.
+Elbert Pickering has a GPA of 3.69.
+Elbert Pickering holds Student ID 39 and has a GPA of 3.69.
+Elbert Pickering, with Student ID 39, achieved a GPA of 3.69.
+With a GPA of 3.69, Elbert Pickering is the student with ID 39.
+The student Elbert Pickering has a GPA of 3.69 and is identified by ID 39.
+Elbert Pickering's GPA is 3.69, and their Student ID is 39.
+With Student ID 39, Elbert Pickering has earned a GPA of 3.69.
+Tait Deaville has a GPA of 3.1.
+Tait Deaville holds Student ID 40 and has a GPA of 3.1.
+Tait Deaville, with Student ID 40, achieved a GPA of 3.1.
+With a GPA of 3.1, Tait Deaville is the student with ID 40.
+The student Tait Deaville has a GPA of 3.1 and is identified by ID 40.
+Tait Deaville's GPA is 3.1, and their Student ID is 40.
+With Student ID 40, Tait Deaville has earned a GPA of 3.1.
+Moore Wessing has a GPA of 2.79.
+Moore Wessing holds Student ID 41 and has a GPA of 2.79.
+Moore Wessing, with Student ID 41, achieved a GPA of 2.79.
+With a GPA of 2.79, Moore Wessing is the student with ID 41.
+The student Moore Wessing has a GPA of 2.79 and is identified by ID 41.
+Moore Wessing's GPA is 2.79, and their Student ID is 41.
+With Student ID 41, Moore Wessing has earned a GPA of 2.79.
+Sybila Lunge has a GPA of 2.86.
+Sybila Lunge holds Student ID 42 and has a GPA of 2.86.
+Sybila Lunge, with Student ID 42, achieved a GPA of 2.86.
+With a GPA of 2.86, Sybila Lunge is the student with ID 42.
+The student Sybila Lunge has a GPA of 2.86 and is identified by ID 42.
+Sybila Lunge's GPA is 2.86, and their Student ID is 42.
+With Student ID 42, Sybila Lunge has earned a GPA of 2.86.
+Marietta Crippell has a GPA of 2.74.
+Marietta Crippell holds Student ID 43 and has a GPA of 2.74.
+Marietta Crippell, with Student ID 43, achieved a GPA of 2.74.
+With a GPA of 2.74, Marietta Crippell is the student with ID 43.
+The student Marietta Crippell has a GPA of 2.74 and is identified by ID 43.
+Marietta Crippell's GPA is 2.74, and their Student ID is 43.
+With Student ID 43, Marietta Crippell has earned a GPA of 2.74.
+Silvio Mille has a GPA of 3.8.
+Silvio Mille holds Student ID 44 and has a GPA of 3.8.
+Silvio Mille, with Student ID 44, achieved a GPA of 3.8.
+With a GPA of 3.8, Silvio Mille is the student with ID 44.
+The student Silvio Mille has a GPA of 3.8 and is identified by ID 44.
+Silvio Mille's GPA is 3.8, and their Student ID is 44.
+With Student ID 44, Silvio Mille has earned a GPA of 3.8.
+Colette Golton has a GPA of 2.75.
+Colette Golton holds Student ID 45 and has a GPA of 2.75.
+Colette Golton, with Student ID 45, achieved a GPA of 2.75.
+With a GPA of 2.75, Colette Golton is the student with ID 45.
+The student Colette Golton has a GPA of 2.75 and is identified by ID 45.
+Colette Golton's GPA is 2.75, and their Student ID is 45.
+With Student ID 45, Colette Golton has earned a GPA of 2.75.
+Nicki Grieg has a GPA of 3.46.
+Nicki Grieg holds Student ID 46 and has a GPA of 3.46.
+Nicki Grieg, with Student ID 46, achieved a GPA of 3.46.
+With a GPA of 3.46, Nicki Grieg is the student with ID 46.
+The student Nicki Grieg has a GPA of 3.46 and is identified by ID 46.
+Nicki Grieg's GPA is 3.46, and their Student ID is 46.
+With Student ID 46, Nicki Grieg has earned a GPA of 3.46.
+Wenda Stickel has a GPA of 3.42.
+Wenda Stickel holds Student ID 47 and has a GPA of 3.42.
+Wenda Stickel, with Student ID 47, achieved a GPA of 3.42.
+With a GPA of 3.42, Wenda Stickel is the student with ID 47.
+The student Wenda Stickel has a GPA of 3.42 and is identified by ID 47.
+Wenda Stickel's GPA is 3.42, and their Student ID is 47.
+With Student ID 47, Wenda Stickel has earned a GPA of 3.42.
+Amara Goodboddy has a GPA of 2.51.
+Amara Goodboddy holds Student ID 48 and has a GPA of 2.51.
+Amara Goodboddy, with Student ID 48, achieved a GPA of 2.51.
+With a GPA of 2.51, Amara Goodboddy is the student with ID 48.
+The student Amara Goodboddy has a GPA of 2.51 and is identified by ID 48.
+Amara Goodboddy's GPA is 2.51, and their Student ID is 48.
+With Student ID 48, Amara Goodboddy has earned a GPA of 2.51.
+Merilyn Anmore has a GPA of 3.23.
+Merilyn Anmore holds Student ID 49 and has a GPA of 3.23.
+Merilyn Anmore, with Student ID 49, achieved a GPA of 3.23.
+With a GPA of 3.23, Merilyn Anmore is the student with ID 49.
+The student Merilyn Anmore has a GPA of 3.23 and is identified by ID 49.
+Merilyn Anmore's GPA is 3.23, and their Student ID is 49.
+With Student ID 49, Merilyn Anmore has earned a GPA of 3.23.
+Ajay Boland has a GPA of 1.62.
+Ajay Boland holds Student ID 50 and has a GPA of 1.62.
+Ajay Boland, with Student ID 50, achieved a GPA of 1.62.
+With a GPA of 1.62, Ajay Boland is the student with ID 50.
+The student Ajay Boland has a GPA of 1.62 and is identified by ID 50.
+Ajay Boland's GPA is 1.62, and their Student ID is 50.
+With Student ID 50, Ajay Boland has earned a GPA of 1.62.
+Andrea Munnion has a GPA of 2.91.
+Andrea Munnion holds Student ID 51 and has a GPA of 2.91.
+Andrea Munnion, with Student ID 51, achieved a GPA of 2.91.
+With a GPA of 2.91, Andrea Munnion is the student with ID 51.
+The student Andrea Munnion has a GPA of 2.91 and is identified by ID 51.
+Andrea Munnion's GPA is 2.91, and their Student ID is 51.
+With Student ID 51, Andrea Munnion has earned a GPA of 2.91.
+Marlyn Linfitt has a GPA of 3.41.
+Marlyn Linfitt holds Student ID 52 and has a GPA of 3.41.
+Marlyn Linfitt, with Student ID 52, achieved a GPA of 3.41.
+With a GPA of 3.41, Marlyn Linfitt is the student with ID 52.
+The student Marlyn Linfitt has a GPA of 3.41 and is identified by ID 52.
+Marlyn Linfitt's GPA is 3.41, and their Student ID is 52.
+With Student ID 52, Marlyn Linfitt has earned a GPA of 3.41.
+Tirrell Stalley has a GPA of 3.36.
+Tirrell Stalley holds Student ID 53 and has a GPA of 3.36.
+Tirrell Stalley, with Student ID 53, achieved a GPA of 3.36.
+With a GPA of 3.36, Tirrell Stalley is the student with ID 53.
+The student Tirrell Stalley has a GPA of 3.36 and is identified by ID 53.
+Tirrell Stalley's GPA is 3.36, and their Student ID is 53.
+With Student ID 53, Tirrell Stalley has earned a GPA of 3.36.
+Mauricio Bromehed has a GPA of 3.75.
+Mauricio Bromehed holds Student ID 54 and has a GPA of 3.75.
+Mauricio Bromehed, with Student ID 54, achieved a GPA of 3.75.
+With a GPA of 3.75, Mauricio Bromehed is the student with ID 54.
+The student Mauricio Bromehed has a GPA of 3.75 and is identified by ID 54.
+Mauricio Bromehed's GPA is 3.75, and their Student ID is 54.
+With Student ID 54, Mauricio Bromehed has earned a GPA of 3.75.
+Darrell Espada has a GPA of 2.84.
+Darrell Espada holds Student ID 55 and has a GPA of 2.84.
+Darrell Espada, with Student ID 55, achieved a GPA of 2.84.
+With a GPA of 2.84, Darrell Espada is the student with ID 55.
+The student Darrell Espada has a GPA of 2.84 and is identified by ID 55.
+Darrell Espada's GPA is 2.84, and their Student ID is 55.
+With Student ID 55, Darrell Espada has earned a GPA of 2.84.
+Tish Kitchaside has a GPA of 1.38.
+Tish Kitchaside holds Student ID 56 and has a GPA of 1.38.
+Tish Kitchaside, with Student ID 56, achieved a GPA of 1.38.
+With a GPA of 1.38, Tish Kitchaside is the student with ID 56.
+The student Tish Kitchaside has a GPA of 1.38 and is identified by ID 56.
+Tish Kitchaside's GPA is 1.38, and their Student ID is 56.
+With Student ID 56, Tish Kitchaside has earned a GPA of 1.38.
+Charlean Gepson has a GPA of 2.08.
+Charlean Gepson holds Student ID 57 and has a GPA of 2.08.
+Charlean Gepson, with Student ID 57, achieved a GPA of 2.08.
+With a GPA of 2.08, Charlean Gepson is the student with ID 57.
+The student Charlean Gepson has a GPA of 2.08 and is identified by ID 57.
+Charlean Gepson's GPA is 2.08, and their Student ID is 57.
+With Student ID 57, Charlean Gepson has earned a GPA of 2.08.
+Fredi Huxley has a GPA of 2.52.
+Fredi Huxley holds Student ID 58 and has a GPA of 2.52.
+Fredi Huxley, with Student ID 58, achieved a GPA of 2.52.
+With a GPA of 2.52, Fredi Huxley is the student with ID 58.
+The student Fredi Huxley has a GPA of 2.52 and is identified by ID 58.
+Fredi Huxley's GPA is 2.52, and their Student ID is 58.
+With Student ID 58, Fredi Huxley has earned a GPA of 2.52.
+Lorenzo Gallacher has a GPA of 1.57.
+Lorenzo Gallacher holds Student ID 59 and has a GPA of 1.57.
+Lorenzo Gallacher, with Student ID 59, achieved a GPA of 1.57.
+With a GPA of 1.57, Lorenzo Gallacher is the student with ID 59.
+The student Lorenzo Gallacher has a GPA of 1.57 and is identified by ID 59.
+Lorenzo Gallacher's GPA is 1.57, and their Student ID is 59.
+With Student ID 59, Lorenzo Gallacher has earned a GPA of 1.57.
+Cynthie Downs has a GPA of 4.
+Cynthie Downs holds Student ID 60 and has a GPA of 4.
+Cynthie Downs, with Student ID 60, achieved a GPA of 4.
+With a GPA of 4, Cynthie Downs is the student with ID 60.
+The student Cynthie Downs has a GPA of 4 and is identified by ID 60.
+Cynthie Downs's GPA is 4, and their Student ID is 60.
+With Student ID 60, Cynthie Downs has earned a GPA of 4.
+Lutero Dunkerk has a GPA of 4.
+Lutero Dunkerk holds Student ID 61 and has a GPA of 4.
+Lutero Dunkerk, with Student ID 61, achieved a GPA of 4.
+With a GPA of 4, Lutero Dunkerk is the student with ID 61.
+The student Lutero Dunkerk has a GPA of 4 and is identified by ID 61.
+Lutero Dunkerk's GPA is 4, and their Student ID is 61.
+With Student ID 61, Lutero Dunkerk has earned a GPA of 4.
+Cecil Chrystal has a GPA of 3.42.
+Cecil Chrystal holds Student ID 62 and has a GPA of 3.42.
+Cecil Chrystal, with Student ID 62, achieved a GPA of 3.42.
+With a GPA of 3.42, Cecil Chrystal is the student with ID 62.
+The student Cecil Chrystal has a GPA of 3.42 and is identified by ID 62.
+Cecil Chrystal's GPA is 3.42, and their Student ID is 62.
+With Student ID 62, Cecil Chrystal has earned a GPA of 3.42.
+Georgia Marvin has a GPA of 1.49.
+Georgia Marvin holds Student ID 63 and has a GPA of 1.49.
+Georgia Marvin, with Student ID 63, achieved a GPA of 1.49.
+With a GPA of 1.49, Georgia Marvin is the student with ID 63.
+The student Georgia Marvin has a GPA of 1.49 and is identified by ID 63.
+Georgia Marvin's GPA is 1.49, and their Student ID is 63.
+With Student ID 63, Georgia Marvin has earned a GPA of 1.49.
+Theodosia Baukham has a GPA of 2.66.
+Theodosia Baukham holds Student ID 64 and has a GPA of 2.66.
+Theodosia Baukham, with Student ID 64, achieved a GPA of 2.66.
+With a GPA of 2.66, Theodosia Baukham is the student with ID 64.
+The student Theodosia Baukham has a GPA of 2.66 and is identified by ID 64.
+Theodosia Baukham's GPA is 2.66, and their Student ID is 64.
+With Student ID 64, Theodosia Baukham has earned a GPA of 2.66.
+Fairlie Cherryman has a GPA of 2.86.
+Fairlie Cherryman holds Student ID 65 and has a GPA of 2.86.
+Fairlie Cherryman, with Student ID 65, achieved a GPA of 2.86.
+With a GPA of 2.86, Fairlie Cherryman is the student with ID 65.
+The student Fairlie Cherryman has a GPA of 2.86 and is identified by ID 65.
+Fairlie Cherryman's GPA is 2.86, and their Student ID is 65.
+With Student ID 65, Fairlie Cherryman has earned a GPA of 2.86.
+Ly Murrish has a GPA of 3.42.
+Ly Murrish holds Student ID 66 and has a GPA of 3.42.
+Ly Murrish, with Student ID 66, achieved a GPA of 3.42.
+With a GPA of 3.42, Ly Murrish is the student with ID 66.
+The student Ly Murrish has a GPA of 3.42 and is identified by ID 66.
+Ly Murrish's GPA is 3.42, and their Student ID is 66.
+With Student ID 66, Ly Murrish has earned a GPA of 3.42.
+Norrie MacMarcuis has a GPA of 3.11.
+Norrie MacMarcuis holds Student ID 67 and has a GPA of 3.11.
+Norrie MacMarcuis, with Student ID 67, achieved a GPA of 3.11.
+With a GPA of 3.11, Norrie MacMarcuis is the student with ID 67.
+The student Norrie MacMarcuis has a GPA of 3.11 and is identified by ID 67.
+Norrie MacMarcuis's GPA is 3.11, and their Student ID is 67.
+With Student ID 67, Norrie MacMarcuis has earned a GPA of 3.11.
+Dagny Eastbrook has a GPA of 3.13.
+Dagny Eastbrook holds Student ID 68 and has a GPA of 3.13.
+Dagny Eastbrook, with Student ID 68, achieved a GPA of 3.13.
+With a GPA of 3.13, Dagny Eastbrook is the student with ID 68.
+The student Dagny Eastbrook has a GPA of 3.13 and is identified by ID 68.
+Dagny Eastbrook's GPA is 3.13, and their Student ID is 68.
+With Student ID 68, Dagny Eastbrook has earned a GPA of 3.13.
+Gradeigh Buckham has a GPA of 2.29.
+Gradeigh Buckham holds Student ID 69 and has a GPA of 2.29.
+Gradeigh Buckham, with Student ID 69, achieved a GPA of 2.29.
+With a GPA of 2.29, Gradeigh Buckham is the student with ID 69.
+The student Gradeigh Buckham has a GPA of 2.29 and is identified by ID 69.
+Gradeigh Buckham's GPA is 2.29, and their Student ID is 69.
+With Student ID 69, Gradeigh Buckham has earned a GPA of 2.29.
+Kristal Rowan has a GPA of 1.35.
+Kristal Rowan holds Student ID 70 and has a GPA of 1.35.
+Kristal Rowan, with Student ID 70, achieved a GPA of 1.35.
+With a GPA of 1.35, Kristal Rowan is the student with ID 70.
+The student Kristal Rowan has a GPA of 1.35 and is identified by ID 70.
+Kristal Rowan's GPA is 1.35, and their Student ID is 70.
+With Student ID 70, Kristal Rowan has earned a GPA of 1.35.
+Devinne Densie has a GPA of 3.51.
+Devinne Densie holds Student ID 71 and has a GPA of 3.51.
+Devinne Densie, with Student ID 71, achieved a GPA of 3.51.
+With a GPA of 3.51, Devinne Densie is the student with ID 71.
+The student Devinne Densie has a GPA of 3.51 and is identified by ID 71.
+Devinne Densie's GPA is 3.51, and their Student ID is 71.
+With Student ID 71, Devinne Densie has earned a GPA of 3.51.
+Jodi Marusyak has a GPA of 4.
+Jodi Marusyak holds Student ID 72 and has a GPA of 4.
+Jodi Marusyak, with Student ID 72, achieved a GPA of 4.
+With a GPA of 4, Jodi Marusyak is the student with ID 72.
+The student Jodi Marusyak has a GPA of 4 and is identified by ID 72.
+Jodi Marusyak's GPA is 4, and their Student ID is 72.
+With Student ID 72, Jodi Marusyak has earned a GPA of 4.
+Em Ungerecht has a GPA of 4.
+Em Ungerecht holds Student ID 73 and has a GPA of 4.
+Em Ungerecht, with Student ID 73, achieved a GPA of 4.
+With a GPA of 4, Em Ungerecht is the student with ID 73.
+The student Em Ungerecht has a GPA of 4 and is identified by ID 73.
+Em Ungerecht's GPA is 4, and their Student ID is 73.
+With Student ID 73, Em Ungerecht has earned a GPA of 4.
+Avie Boylan has a GPA of 3.17.
+Avie Boylan holds Student ID 74 and has a GPA of 3.17.
+Avie Boylan, with Student ID 74, achieved a GPA of 3.17.
+With a GPA of 3.17, Avie Boylan is the student with ID 74.
+The student Avie Boylan has a GPA of 3.17 and is identified by ID 74.
+Avie Boylan's GPA is 3.17, and their Student ID is 74.
+With Student ID 74, Avie Boylan has earned a GPA of 3.17.
+Lynnelle Cissell has a GPA of 3.01.
+Lynnelle Cissell holds Student ID 75 and has a GPA of 3.01.
+Lynnelle Cissell, with Student ID 75, achieved a GPA of 3.01.
+With a GPA of 3.01, Lynnelle Cissell is the student with ID 75.
+The student Lynnelle Cissell has a GPA of 3.01 and is identified by ID 75.
+Lynnelle Cissell's GPA is 3.01, and their Student ID is 75.
+With Student ID 75, Lynnelle Cissell has earned a GPA of 3.01.
+Ailey Brewse has a GPA of 1.05.
+Ailey Brewse holds Student ID 76 and has a GPA of 1.05.
+Ailey Brewse, with Student ID 76, achieved a GPA of 1.05.
+With a GPA of 1.05, Ailey Brewse is the student with ID 76.
+The student Ailey Brewse has a GPA of 1.05 and is identified by ID 76.
+Ailey Brewse's GPA is 1.05, and their Student ID is 76.
+With Student ID 76, Ailey Brewse has earned a GPA of 1.05.
+Elbertine Blacker has a GPA of 3.56.
+Elbertine Blacker holds Student ID 77 and has a GPA of 3.56.
+Elbertine Blacker, with Student ID 77, achieved a GPA of 3.56.
+With a GPA of 3.56, Elbertine Blacker is the student with ID 77.
+The student Elbertine Blacker has a GPA of 3.56 and is identified by ID 77.
+Elbertine Blacker's GPA is 3.56, and their Student ID is 77.
+With Student ID 77, Elbertine Blacker has earned a GPA of 3.56.
+Judye Tomaselli has a GPA of 0.23.
+Judye Tomaselli holds Student ID 78 and has a GPA of 0.23.
+Judye Tomaselli, with Student ID 78, achieved a GPA of 0.23.
+With a GPA of 0.23, Judye Tomaselli is the student with ID 78.
+The student Judye Tomaselli has a GPA of 0.23 and is identified by ID 78.
+Judye Tomaselli's GPA is 0.23, and their Student ID is 78.
+With Student ID 78, Judye Tomaselli has earned a GPA of 0.23.
+Tobye Esilmon has a GPA of 3.37.
+Tobye Esilmon holds Student ID 79 and has a GPA of 3.37.
+Tobye Esilmon, with Student ID 79, achieved a GPA of 3.37.
+With a GPA of 3.37, Tobye Esilmon is the student with ID 79.
+The student Tobye Esilmon has a GPA of 3.37 and is identified by ID 79.
+Tobye Esilmon's GPA is 3.37, and their Student ID is 79.
+With Student ID 79, Tobye Esilmon has earned a GPA of 3.37.
+Faith Burkwood has a GPA of 2.56.
+Faith Burkwood holds Student ID 80 and has a GPA of 2.56.
+Faith Burkwood, with Student ID 80, achieved a GPA of 2.56.
+With a GPA of 2.56, Faith Burkwood is the student with ID 80.
+The student Faith Burkwood has a GPA of 2.56 and is identified by ID 80.
+Faith Burkwood's GPA is 2.56, and their Student ID is 80.
+With Student ID 80, Faith Burkwood has earned a GPA of 2.56.
+Charlot Desforges has a GPA of 2.84.
+Charlot Desforges holds Student ID 81 and has a GPA of 2.84.
+Charlot Desforges, with Student ID 81, achieved a GPA of 2.84.
+With a GPA of 2.84, Charlot Desforges is the student with ID 81.
+The student Charlot Desforges has a GPA of 2.84 and is identified by ID 81.
+Charlot Desforges's GPA is 2.84, and their Student ID is 81.
+With Student ID 81, Charlot Desforges has earned a GPA of 2.84.
+Tymon Eteen has a GPA of 3.43.
+Tymon Eteen holds Student ID 82 and has a GPA of 3.43.
+Tymon Eteen, with Student ID 82, achieved a GPA of 3.43.
+With a GPA of 3.43, Tymon Eteen is the student with ID 82.
+The student Tymon Eteen has a GPA of 3.43 and is identified by ID 82.
+Tymon Eteen's GPA is 3.43, and their Student ID is 82.
+With Student ID 82, Tymon Eteen has earned a GPA of 3.43.
+Bev Divver has a GPA of 2.43.
+Bev Divver holds Student ID 83 and has a GPA of 2.43.
+Bev Divver, with Student ID 83, achieved a GPA of 2.43.
+With a GPA of 2.43, Bev Divver is the student with ID 83.
+The student Bev Divver has a GPA of 2.43 and is identified by ID 83.
+Bev Divver's GPA is 2.43, and their Student ID is 83.
+With Student ID 83, Bev Divver has earned a GPA of 2.43.
+Bel Stroulger has a GPA of 1.95.
+Bel Stroulger holds Student ID 84 and has a GPA of 1.95.
+Bel Stroulger, with Student ID 84, achieved a GPA of 1.95.
+With a GPA of 1.95, Bel Stroulger is the student with ID 84.
+The student Bel Stroulger has a GPA of 1.95 and is identified by ID 84.
+Bel Stroulger's GPA is 1.95, and their Student ID is 84.
+With Student ID 84, Bel Stroulger has earned a GPA of 1.95.
+Clerkclaude Seabridge has a GPA of 2.77.
+Clerkclaude Seabridge holds Student ID 85 and has a GPA of 2.77.
+Clerkclaude Seabridge, with Student ID 85, achieved a GPA of 2.77.
+With a GPA of 2.77, Clerkclaude Seabridge is the student with ID 85.
+The student Clerkclaude Seabridge has a GPA of 2.77 and is identified by ID 85.
+Clerkclaude Seabridge's GPA is 2.77, and their Student ID is 85.
+With Student ID 85, Clerkclaude Seabridge has earned a GPA of 2.77.
+Allison Islip has a GPA of 2.69.
+Allison Islip holds Student ID 86 and has a GPA of 2.69.
+Allison Islip, with Student ID 86, achieved a GPA of 2.69.
+With a GPA of 2.69, Allison Islip is the student with ID 86.
+The student Allison Islip has a GPA of 2.69 and is identified by ID 86.
+Allison Islip's GPA is 2.69, and their Student ID is 86.
+With Student ID 86, Allison Islip has earned a GPA of 2.69.
+Marena McNea has a GPA of 2.6.
+Marena McNea holds Student ID 87 and has a GPA of 2.6.
+Marena McNea, with Student ID 87, achieved a GPA of 2.6.
+With a GPA of 2.6, Marena McNea is the student with ID 87.
+The student Marena McNea has a GPA of 2.6 and is identified by ID 87.
+Marena McNea's GPA is 2.6, and their Student ID is 87.
+With Student ID 87, Marena McNea has earned a GPA of 2.6.
+Powell D'Ambrosio has a GPA of 4.
+Powell D'Ambrosio holds Student ID 88 and has a GPA of 4.
+Powell D'Ambrosio, with Student ID 88, achieved a GPA of 4.
+With a GPA of 4, Powell D'Ambrosio is the student with ID 88.
+The student Powell D'Ambrosio has a GPA of 4 and is identified by ID 88.
+Powell D'Ambrosio's GPA is 4, and their Student ID is 88.
+With Student ID 88, Powell D'Ambrosio has earned a GPA of 4.
+Shadow Kingzet has a GPA of 3.98.
+Shadow Kingzet holds Student ID 89 and has a GPA of 3.98.
+Shadow Kingzet, with Student ID 89, achieved a GPA of 3.98.
+With a GPA of 3.98, Shadow Kingzet is the student with ID 89.
+The student Shadow Kingzet has a GPA of 3.98 and is identified by ID 89.
+Shadow Kingzet's GPA is 3.98, and their Student ID is 89.
+With Student ID 89, Shadow Kingzet has earned a GPA of 3.98.
+Gerri Paterson has a GPA of 3.52.
+Gerri Paterson holds Student ID 90 and has a GPA of 3.52.
+Gerri Paterson, with Student ID 90, achieved a GPA of 3.52.
+With a GPA of 3.52, Gerri Paterson is the student with ID 90.
+The student Gerri Paterson has a GPA of 3.52 and is identified by ID 90.
+Gerri Paterson's GPA is 3.52, and their Student ID is 90.
+With Student ID 90, Gerri Paterson has earned a GPA of 3.52.
+Arny Friar has a GPA of 2.15.
+Arny Friar holds Student ID 91 and has a GPA of 2.15.
+Arny Friar, with Student ID 91, achieved a GPA of 2.15.
+With a GPA of 2.15, Arny Friar is the student with ID 91.
+The student Arny Friar has a GPA of 2.15 and is identified by ID 91.
+Arny Friar's GPA is 2.15, and their Student ID is 91.
+With Student ID 91, Arny Friar has earned a GPA of 2.15.
+Adler Cotgrove has a GPA of 1.52.
+Adler Cotgrove holds Student ID 92 and has a GPA of 1.52.
+Adler Cotgrove, with Student ID 92, achieved a GPA of 1.52.
+With a GPA of 1.52, Adler Cotgrove is the student with ID 92.
+The student Adler Cotgrove has a GPA of 1.52 and is identified by ID 92.
+Adler Cotgrove's GPA is 1.52, and their Student ID is 92.
+With Student ID 92, Adler Cotgrove has earned a GPA of 1.52.
+Gonzalo Huard has a GPA of 2.62.
+Gonzalo Huard holds Student ID 93 and has a GPA of 2.62.
+Gonzalo Huard, with Student ID 93, achieved a GPA of 2.62.
+With a GPA of 2.62, Gonzalo Huard is the student with ID 93.
+The student Gonzalo Huard has a GPA of 2.62 and is identified by ID 93.
+Gonzalo Huard's GPA is 2.62, and their Student ID is 93.
+With Student ID 93, Gonzalo Huard has earned a GPA of 2.62.
+Jacquette Stickel has a GPA of 4.
+Jacquette Stickel holds Student ID 94 and has a GPA of 4.
+Jacquette Stickel, with Student ID 94, achieved a GPA of 4.
+With a GPA of 4, Jacquette Stickel is the student with ID 94.
+The student Jacquette Stickel has a GPA of 4 and is identified by ID 94.
+Jacquette Stickel's GPA is 4, and their Student ID is 94.
+With Student ID 94, Jacquette Stickel has earned a GPA of 4.
+Becka Licciardello has a GPA of 3.64.
+Becka Licciardello holds Student ID 95 and has a GPA of 3.64.
+Becka Licciardello, with Student ID 95, achieved a GPA of 3.64.
+With a GPA of 3.64, Becka Licciardello is the student with ID 95.
+The student Becka Licciardello has a GPA of 3.64 and is identified by ID 95.
+Becka Licciardello's GPA is 3.64, and their Student ID is 95.
+With Student ID 95, Becka Licciardello has earned a GPA of 3.64.
+Verile Heathcote has a GPA of 3.33.
+Verile Heathcote holds Student ID 96 and has a GPA of 3.33.
+Verile Heathcote, with Student ID 96, achieved a GPA of 3.33.
+With a GPA of 3.33, Verile Heathcote is the student with ID 96.
+The student Verile Heathcote has a GPA of 3.33 and is identified by ID 96.
+Verile Heathcote's GPA is 3.33, and their Student ID is 96.
+With Student ID 96, Verile Heathcote has earned a GPA of 3.33.
+Alicea Haslen has a GPA of 2.79.
+Alicea Haslen holds Student ID 97 and has a GPA of 2.79.
+Alicea Haslen, with Student ID 97, achieved a GPA of 2.79.
+With a GPA of 2.79, Alicea Haslen is the student with ID 97.
+The student Alicea Haslen has a GPA of 2.79 and is identified by ID 97.
+Alicea Haslen's GPA is 2.79, and their Student ID is 97.
+With Student ID 97, Alicea Haslen has earned a GPA of 2.79.
+Elie Rew has a GPA of 3.67.
+Elie Rew holds Student ID 98 and has a GPA of 3.67.
+Elie Rew, with Student ID 98, achieved a GPA of 3.67.
+With a GPA of 3.67, Elie Rew is the student with ID 98.
+The student Elie Rew has a GPA of 3.67 and is identified by ID 98.
+Elie Rew's GPA is 3.67, and their Student ID is 98.
+With Student ID 98, Elie Rew has earned a GPA of 3.67.
+Aurelea Woltering has a GPA of 3.41.
+Aurelea Woltering holds Student ID 99 and has a GPA of 3.41.
+Aurelea Woltering, with Student ID 99, achieved a GPA of 3.41.
+With a GPA of 3.41, Aurelea Woltering is the student with ID 99.
+The student Aurelea Woltering has a GPA of 3.41 and is identified by ID 99.
+Aurelea Woltering's GPA is 3.41, and their Student ID is 99.
+With Student ID 99, Aurelea Woltering has earned a GPA of 3.41.
+Ogdan Meni has a GPA of 2.96.
+Ogdan Meni holds Student ID 100 and has a GPA of 2.96.
+Ogdan Meni, with Student ID 100, achieved a GPA of 2.96.
+With a GPA of 2.96, Ogdan Meni is the student with ID 100.
+The student Ogdan Meni has a GPA of 2.96 and is identified by ID 100.
+Ogdan Meni's GPA is 2.96, and their Student ID is 100.
+With Student ID 100, Ogdan Meni has earned a GPA of 2.96.
