@@ -2,7 +2,6 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.css";
 import { Button } from "react-bootstrap";
 import axios from "axios";
-import { ReactSVG } from "react-svg";
 import { useNavigate } from "react-router-dom";
 import {ReactComponent as Svg} from './assets/ripple.svg'
 
@@ -16,7 +15,7 @@ const ReenterLACE = () => {
 
         axios({
             method: 'post',
-            url: 'http://34.123.247.181:8082/lace/login',
+            url: 'http://127.0.0.1:8082/lace/login',
             headers: {
                 "Content-Type": 'application/json',
                 "Access-Control-Allow-Origin": "*"

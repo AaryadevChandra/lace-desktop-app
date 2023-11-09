@@ -42,7 +42,7 @@ function ChatPage() {
     // call backend for added text box as well
     axios({
       method:'post',
-      url: 'http://34.123.247.181:8081/lace/query',
+      url: 'http://127.0.0.1:8081/lace/query',
       headers: {
         "Content-Type": 'application/json',
         "Access-Control-Allow-Origin": "*"
