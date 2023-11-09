@@ -10,7 +10,7 @@ const Header = () => {
                 <p style={{display:'flex', color:'white', fontSize: '4vh', border: '0px solid white', alignItems:'center'}}>L.A.C.E</p>
             </div>
             <div style={{display:'flex', flex:1 ,border: '0px solid red', justifyContent:'flex-end', marginRight:'5vw', alignItems:'center'}}>
-                <p style={{ display:'flex', color:'white', fontSize: '3vh', border: '0px solid white', alignItems:'center'}}>Welcome, User</p>
+                <p style={{ display:'flex', color:'white', fontSize: '3vh', border: '0px solid white', alignItems:'center'}}>Welcome</p>
             </div>
         </div>
     );

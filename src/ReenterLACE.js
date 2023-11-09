@@ -4,6 +4,8 @@ import { Button } from "react-bootstrap";
 import axios from "axios";
 import { ReactSVG } from "react-svg";
 import { useNavigate } from "react-router-dom";
+import {ReactComponent as Svg} from './assets/ripple.svg'
+
 const ReenterLACE = () => {
 
   const navigate = useNavigate()
@@ -24,8 +26,7 @@ const ReenterLACE = () => {
                 'password': password,
             }
         }).then(res=>{
-            console.log(res)
-            if ( res.data ) {
+            if ( res != undefined ) {
                 alert('Logged in')
                 navigate('/chat-page', {state: {uid: uid}})
                 
@@ -154,8 +155,7 @@ const ReenterLACE = () => {
             height: "100vh",
           }}
         >
-        <div style={{color:'white'}}>some text</div>
-          <ReactSVG src="./assets/ripple.svg"/>
+          <Svg />
 
         </div>
       </div>

@@ -127,7 +127,7 @@ def login_user_account(account_uuid, account_password):
 
             print('*****CURRENT SESSION UUIDS******')
             print(current_session_uids)
-            return 1
+            return res
         else:
             return -1
     except:

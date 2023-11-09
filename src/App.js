@@ -15,6 +15,7 @@ function ChatPage() {
 
   var [userNatlangInput, setUserNatlangInput] = useState('');
   var [currID, setCurrID] = useState();
+  var [userName, setUserName] = useState();
   var location = useLocation()
 
   // assumption: there will always be a response text box for an input, may even be error but there should always be some response BotTextBox
@@ -26,8 +27,7 @@ function ChatPage() {
   ])
 
   useEffect(()=>{
-    console.log(location.state.uid)
-    setCurrID(currID = location.state.uid)
+    
   }, [])
 
   
@@ -64,22 +64,22 @@ function ChatPage() {
 
 
 
-  window.addEventListener("beforeunload", (ev) => 
-  {  
-    ev.preventDefault();
-    axios({
-      method:'post',
-      url:'http://34.123.247.181:8082/lace/logout',
-      data: {
-        'uid': location.state.uid
-      },
-      headers: {
-        "Content-Type": 'application/json',
-        "Access-Control-Allow-Origin": "*"
-    },
+  // window.addEventListener("beforeunload", (ev) => 
+  // {  
+  //   ev.preventDefault();
+  //   axios({
+  //     method:'post',
+  //     url:'http://34.123.247.181:8082/lace/logout',
+  //     data: {
+  //       'uid': location1.state.uid
+  //     },
+  //     headers: {
+  //       "Content-Type": 'application/json',
+  //       "Access-Control-Allow-Origin": "*"
+  //   },
 
-    }).then(res=>console.log(res)).catch(e=>console.log(e))
-  });
+  //   }).then(res=>console.log(res)).catch(e=>console.log(e))
+  // });
 
   return (
     <div id="topmost-parent-div" style={{display:'flex', border: '0px solid red', backgroundColor:'#0b0f19', flexDirection:'column', 

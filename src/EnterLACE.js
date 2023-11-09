@@ -3,6 +3,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import { Button } from "react-bootstrap";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
+import {ReactComponent as Svg} from './assets/ripple.svg'
 const EnterLACE = () => {
 
 
@@ -121,7 +122,7 @@ const EnterLACE = () => {
                     backgroundColor: "#201c1c",
                     borderRadius: "10px",
                     outline: "none",
-                    borderWidth: "1px",
+                    borderWidth: "1`px",
                     borderColor: "#2c3028",
                     padding: "8px",
                     color:"white"
@@ -214,7 +215,9 @@ const EnterLACE = () => {
             width: "50vw",
             height: "100vh",
           }}
-        ></div>
+        >
+          <Svg height={"500px"} width={"500px"}/>
+        </div>
       </div>
     </>
   );
